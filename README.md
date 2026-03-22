@@ -51,7 +51,7 @@ This repository serves as the **Official Feedback Hub** for our web tools.
 ---
 
 ## 🌐 Visit Website
-👉 [**https://freevidkit.com**](https://freevideokit.com)
+👉 [**https://freevideokit.com**](https://freevideokit.com)
 
 ---
 *If you find these offline tools helpful, please give this repository a ⭐ Star!*
