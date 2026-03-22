@@ -1,6 +1,6 @@
 # 🎥 Free Video Tools - Clean, Fast, Zero Privacy Risk
 
-[**👉 Access the Tools Now **](https://freevidkit.com)
+[**👉 Access the Tools Now **](https://freevideokit.com)
 
 **Free Video Tools** is a 100% local-processing web toolbox. All compression, conversion, audio processing, clip editing, and visual processing tasks are executed entirely within your browser. **No uploads, no server processing, and zero privacy risk.**
 
@@ -51,7 +51,7 @@ This repository serves as the **Official Feedback Hub** for our web tools.
 ---
 
 ## 🌐 Visit Website
-👉 [**https://freevidkit.com**](https://freevidkit.com)
+👉 [**https://freevidkit.com**](https://freevideokit.com)
 
 ---
 *If you find these offline tools helpful, please give this repository a ⭐ Star!*
